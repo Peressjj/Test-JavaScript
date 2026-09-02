@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Repositório de Testes JavaScript" width="100%">
+  <img src="assets/banner.jpg" alt="Repositório de Testes JavaScript" width="100%">
 </p>
 
 <h1 align="center">Repositório de Testes JavaScript</h1>
